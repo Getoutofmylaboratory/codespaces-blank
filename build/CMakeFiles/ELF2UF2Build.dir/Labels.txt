@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/workspaces/codespaces-blank/pico/picoprobe/build/CMakeFiles/ELF2UF2Build
+/workspaces/codespaces-blank/pico/picoprobe/build/CMakeFiles/ELF2UF2Build.rule
+/workspaces/codespaces-blank/pico/picoprobe/build/CMakeFiles/ELF2UF2Build-complete.rule
+/workspaces/codespaces-blank/pico/picoprobe/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/workspaces/codespaces-blank/pico/picoprobe/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/workspaces/codespaces-blank/pico/picoprobe/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/workspaces/codespaces-blank/pico/picoprobe/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
+/workspaces/codespaces-blank/pico/picoprobe/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/workspaces/codespaces-blank/pico/picoprobe/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/workspaces/codespaces-blank/pico/picoprobe/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
